@@ -1,0 +1,65 @@
+.details-view {
+  width: 80%;
+  padding: 10px;
+  background-color: #272727;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.logo-details {
+  display: flex;
+}
+
+.logo-details img {
+  height: 80px;
+  width: 80px;
+  margin: 10px;
+}
+
+.logo-details p {
+  font-weight: bold;
+}
+
+.loc-type-sal {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.loc-type {
+  display: flex;
+  justify-content: space-around;
+  width: 20%;
+}
+
+.dec-visit {
+  display: flex;
+  justify-content: space-between;
+}
+
+.skills-list {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+
+.skills-list-type {
+  display: flex;
+  justify-content: space-evenly;
+  width: 30%;
+  margin: 10px;
+}
+
+.skills-list-type img {
+  width: 50px;
+  height: 50px;
+}
+
+.life-at-company {
+  display: flex;
+  justify-content: space-around;
+}
+
+.life-at-company div {
+  width: 50%;
+}

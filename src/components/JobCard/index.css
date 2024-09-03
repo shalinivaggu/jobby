@@ -1,0 +1,33 @@
+.job-list {
+  color: #ffffff;
+  margin: 10px;
+  width: 100%;
+  background-color: #272727;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.img-title-rating {
+  display: flex;
+}
+
+.img-title-rating img {
+  width: 80px;
+  height: 80px;
+  margin-right: 10px;
+}
+
+.loc-details {
+  display: flex;
+  justify-content: space-between;
+}
+
+.loc-type {
+  display: flex;
+  width: 30%;
+  justify-content: space-around;
+}
+
+.link-component {
+  text-decoration: none;
+}

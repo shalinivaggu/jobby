@@ -1,0 +1,24 @@
+.jobdetails-view {
+  background-color: black;
+  min-height: 100vh;
+  color: #ffffff;
+  padding: 10px;
+}
+
+.view {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.similarJobs-view {
+  width: 80%;
+  padding: 10px;
+}
+
+.similarJobs-view ul {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  width: 100%;
+}
